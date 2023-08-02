@@ -3,3 +3,5 @@ ROKUROK RESOLUSI
 - Belajar Vue JS untuk Frontend
 - Belajar Tailwind CSS
 - Belajar Nuxt JS
+- Belajar PostgreSQL
+- Belajar MongoDB
