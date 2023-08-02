@@ -1,0 +1,4 @@
+ROKUROK RESOLUSI
+- Belajar Laravel untuk Backend
+- Belajar Vue JS untuk Frontend
+- Belajar Tailwind CSS
